@@ -1,0 +1,8 @@
+Model,Training Accuracy,Testing Accuracy,Precision,Recall,F1-score
+XGBoosting,0.87,0.84,0.84,0.82,0.83
+Knn,0.92,0.89,0.96,0.8,0.87
+Logistic Regression,0.74,0.76,0.74,0.77,0.75
+Random Forest,0.71,0.71,0.67,0.78,0.72
+SVM,0.74,0.76,0.74,0.76,0.75
+Voting Classifier,0.86,0.84,0.84,0.83,0.83
+Grid Search Classifier,0.99,0.93,0.97,0.95,0.92
